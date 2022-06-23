@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "POC_Serialization_and_Desialization/1.0.0": {
+        "runtime": {
+          "POC_Serialization_and_Desialization.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POC_Serialization_and_Desialization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

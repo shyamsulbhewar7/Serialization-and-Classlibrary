@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC_Serialization_and_Desialization", "POC_Serialization_and_Desialization.csproj", "{7A641BB8-B632-416A-A4EA-E61B0D02B524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A641BB8-B632-416A-A4EA-E61B0D02B524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A641BB8-B632-416A-A4EA-E61B0D02B524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A641BB8-B632-416A-A4EA-E61B0D02B524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A641BB8-B632-416A-A4EA-E61B0D02B524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C20FE328-BCF5-4767-A34A-6F09AB553CEA}
+	EndGlobalSection
+EndGlobal
