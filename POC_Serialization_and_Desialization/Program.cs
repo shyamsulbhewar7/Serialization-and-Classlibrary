@@ -41,7 +41,7 @@ class class1
     {
         Person person1 = new Person(){FirstName = "Shyam", LastName = "Sulbhewar"};
         Person person2 = null;
-        string filePath = "C:\\Users\\DELL\\Desktop\\SwabhavTechLab\\Assignment\\Serialization and Class Library\\POC_Serialization_and_Desialization\\data.txt";
+        string filePath = "data.txt";
         DataSerializer dataSerializer = new DataSerializer();
         dataSerializer.XmlSerialize( typeof(Person), person1, filePath);
         person2 = dataSerializer.XmlDeserialize(typeof(Person), filePath) as Person;
